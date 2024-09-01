@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SCtpbX5BQ7vUP9JPDd89aCIt28WpUJp6DliutdTBt18=",
+  "Source": "docker.without.composer",
+  "BasePath": "_content/docker.without.composer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
